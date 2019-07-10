@@ -1,0 +1,7 @@
+echo start updating documentation
+git pull
+git add .
+git commit -m " yalla to go"
+git push
+echo done
+
