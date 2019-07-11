@@ -1,4 +1,4 @@
-Fab Lab Gharbiya STEM school
+Fab Lab Sharqia STEM school
 
 Welcome to fab lab gharbiya repository, this is created to document the training contents, it is two weeks training, we trained at almaadi stem school.
 About me
